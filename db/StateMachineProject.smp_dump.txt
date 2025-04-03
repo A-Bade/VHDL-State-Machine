@@ -1,0 +1,6 @@
+
+State Machine - |StateMachineProject|Var_State
+Name Var_State.STATE3 Var_State.STATE2 Var_State.STATE1 
+Var_State.STATE1 0 0 0 
+Var_State.STATE2 0 1 1 
+Var_State.STATE3 1 0 1 
